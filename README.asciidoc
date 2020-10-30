@@ -1,4 +1,4 @@
-= picturesafe-search samples
+= abstract-search samples
 
 Samples for the https://github.com/all-things-search/abstract-search[abstract-search library].
 
